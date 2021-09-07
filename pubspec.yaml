@@ -1,7 +1,7 @@
 name: permission-_handler_temp
 description: Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
 version: 1.0.1
-homepage: https://github.com/radhen-thirstydevs/permission-_handler_temp
+homepage: https://github.com/radhen-thirstydevs/permission_handler_temp
 
 flutter:
   plugin:
